@@ -1,0 +1,14 @@
+ Time   Operation     Count 
+
+ 0  ns  Reset             0 
+ 10 ns  Car enters        1 
+ 20 ns  Car enters        2 
+ 30 ns  Car enters        3 
+ 40 ns  No operation      3 
+ 50 ns  Car leaves        2 
+ 60 ns  No operation      2 
+
+     Expected final output:
+Number of cars =  2
+Full = 0
+Empty = 0
